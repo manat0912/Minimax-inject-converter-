@@ -1,0 +1,2 @@
+# Keep the host application's AMD ROCm torch installation.
+safetensors>=0.5.3
